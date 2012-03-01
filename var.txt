@@ -1,0 +1,4 @@
+title String
+description String
+id String
+date String
